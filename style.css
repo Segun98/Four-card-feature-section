@@ -55,7 +55,7 @@ body {
     border-radius: 10px;
     padding: 20px;
     line-height: 1.6;
-    box-shadow: 1px 7px 1px 1px hsl(229, 6%, 66%);
+   box-shadow: 0px 5px 20px hsl(229, 6%, 66%);
     height: 230px;
 }
 
