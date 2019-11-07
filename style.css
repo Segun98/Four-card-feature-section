@@ -1,4 +1,4 @@
-@import url('https://fonts.google.com/specimen/Poppins');
+@import url('https://fonts.googl@import url("https://fonts.googleapis.com/css?family=Poppins:200,400,600&display=swap");
 
 
 * {
@@ -8,7 +8,7 @@
 }
 
 body {
-    font-family: Poppins;
+    font-family: "Poppins";
     Font-size: 15px;
     color: hsl(229, 6%, 66%);
 
